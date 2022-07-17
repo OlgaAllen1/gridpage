@@ -6,15 +6,15 @@
 }
 
 .item:nth-child(2){
-	background-color: blueviolet;
+	background-color: #86ac98;
 	grid-column: span 2;
 }
 .item:nth-child(3){
-	background-color: blueviolet;
+	background-color: #86ac98;
 	grid-column: span 2;
 }
 .item:nth-child(6){
-	background-color: blueviolet;
+	background-color: #86ac98  ;
 	grid-column: span 2;
 }
 header {
@@ -31,3 +31,16 @@ header {
 	width:500px;
 }
 
+.resume h1 {
+	text-align: center;
+	border-bottom: solid aliceblue;
+	font-weight: normal;
+}
+
+.resume {
+	background-color: #2a2f4a;
+	padding: 40px 100px 40px 100px;
+
+	color:aliceblue;
+
+}
